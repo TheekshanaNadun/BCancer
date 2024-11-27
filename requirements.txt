@@ -1,0 +1,4 @@
+flask
+joblib
+gradio
+scikit-learn  # If you're using scikit-learn for the model
