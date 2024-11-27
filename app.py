@@ -3,7 +3,7 @@ import joblib
 import numpy as np
 
 # Load the trained model
-model = joblib.load("breast_cancer_model.pkl")
+model = joblib.load("model.pkl")
 
 # Define the prediction function
 def predict(
